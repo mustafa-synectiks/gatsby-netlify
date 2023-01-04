@@ -16,7 +16,7 @@
     "gatsby-plugin-offline": "^3.0.7",
     "gatsby-plugin-react-helmet": "^3.1.7",
     "gatsby-plugin-routes": "^1.0.0",
-    "gatsby-plugin-s3": "^0.3.2",
+    "gatsby-plugin-s3": "^0.3.8",
     "gatsby-plugin-sharp": "^2.2.24",
     "gatsby-remark-responsive-iframe": "^2.2.17",
     "gatsby-source-filesystem": "^2.1.24",
